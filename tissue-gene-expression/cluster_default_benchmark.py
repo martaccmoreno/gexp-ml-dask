@@ -1,3 +1,8 @@
+"""
+This code depends on the architecture of each HPC cluster.
+Confer Dask's documentation to see which cluster manager interfaces are available, and with which settings.
+"""
+
 import csv
 import gc
 import os
