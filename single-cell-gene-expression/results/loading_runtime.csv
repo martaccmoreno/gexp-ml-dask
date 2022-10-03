@@ -1,0 +1,9 @@
+Dimension,Framework,Minimum Runtime (s)
+n40k x f10k,Distributed Threads,18.87808121999842
+n40k x f10k,Distributed Processes,12.17565520197968
+n60k x f10k,Distributed Threads,28.13538479898125
+n60k x f10k,Distributed Processes,17.371184975025244
+n40k x f15k,Distributed Threads,38.69335266499547
+n40k x f15k,Distributed Processes,22.614442268997664
+n60k x f15k,Distributed Threads,62.871802929992555
+n60k x f15k,Distributed Processes,38.101147094974294

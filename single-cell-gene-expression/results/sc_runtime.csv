@@ -1,0 +1,34 @@
+Dimension,Framework,Minimum Runtime (s)
+n40k x f10k,Distributed Threads,51.513321309001185
+n40k x f10k,Distributed Processes,31.649477670000124
+n40k x f10k,SPE,7.243791699998837
+n60k x f10k,Distributed Threads,72.87259176399675
+n60k x f10k,Distributed Processes,45.06167149900102
+n60k x f10k,SPE,12.208875541000452
+n87.9k x f10k,Distributed Threads,105.24801276699873
+n87.9k x f10k,Distributed Processes,62.1773908920004
+n87.9k x f10k,SPE,43.652458317999844
+n40k x f15k,Distributed Threads,73.33812886400847
+n40k x f15k,Distributed Processes,51.099937504999616
+n40k x f15k,SPE,12.660397250001552
+n60k x f15k,Distributed Threads,105.68495018497924
+n60k x f15k,Distributed Processes,69.0846751579993
+n60k x f15k,SPE,49.173891313999775
+n87.9k x f15k,Distributed Threads,149.57372026797384
+n87.9k x f15k,Distributed Processes,97.57314335100091
+n87.9k x f15k,SPE,210.00784203700096
+n40k x f20k,Distributed Threads,100.2008771779947
+n40k x f20k,Distributed Processes,71.48992498299776
+n40k x f20k,SPE,37.45534433300054
+n60k x f20k,Distributed Threads,146.63784548299736
+n60k x f20k,Distributed Processes,99.47603979199994
+n60k x f20k,SPE,188.27392202400006
+n87.9k x f20k,Distributed Threads,204.43513365398394
+n87.9k x f20k,Distributed Processes,137.16863535200173
+n40k x f24.2k,Distributed Threads,130.91702970201732
+n40k x f24.2k,Distributed Processes,92.9625184209981
+n40k x f24.2k,SPE,46.382736431
+n60k x f24.2k,Distributed Threads,188.6701306469913
+n60k x f24.2k,Distributed Processes,130.3858079490019
+n87.9k x f24.2k,Distributed Threads,268.80597571100225
+n87.9k x f24.2k,Distributed Processes,182.53899199499938
