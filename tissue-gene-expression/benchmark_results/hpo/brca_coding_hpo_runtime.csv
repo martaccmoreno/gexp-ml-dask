@@ -1,0 +1,4 @@
+Dimension,Framework,Fastest Runtime (s)
+BRCA Coding,Distributed Threads,1468.8449755279871
+BRCA Coding,Scientific Python Ecnvironment,2324.1340304610203
+BRCA Coding,Distributed Processes,1477.7437145060103

@@ -1,0 +1,10 @@
+n Samples,Framework,Fastest Runtime (s)
+n200,Distributed Threads,147.63777316198684
+n200,Distributed Processes,166.5198999630229
+n200,Scientific Python Ecosystem,425.51329817899386
+n600,Distributed Threads,391.13263540601474
+n600,Distributed Processes,412.00606113200774
+n600,Scientific Python Ecosystem,704.3386227170122
+n1205,Distributed Threads,913.9534250209981
+n1205,Distributed Processes,926.4469666910009
+n1205,Scientific Python Ecosystem,1252.4263185359887

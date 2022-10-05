@@ -1,0 +1,10 @@
+f Features,Framework,Peak Memory (MiB)
+f10000,Distributed Threads,1947.6015625
+f10000,Distributed Processes,2889.65625
+f10000,Scientific Python Ecosystem,3689.57421875
+f20000,Distributed Threads,4214.80859375
+f20000,Distributed Processes,5622.0703125
+f20000,Scientific Python Ecosystem,5978.78515625
+f40000,Distributed Threads,6052.82421875
+f40000,Distributed Processes,8270.95703125
+f40000,Scientific Python Ecosystem,9660.87890625

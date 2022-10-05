@@ -1,0 +1,4 @@
+Dimension,Framework,Peak Memory (MiB)
+BRCA Coding,Distributed Threads,4207.55859375
+BRCA Coding,Scientific Python Environment,10368.5234375
+BRCA Coding,Distributed Processes,6854.45703125

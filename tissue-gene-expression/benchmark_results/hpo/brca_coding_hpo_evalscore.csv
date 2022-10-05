@@ -1,0 +1,4 @@
+Dimension,Framework,Evaluation Score (Accuracy)
+BRCA Coding,Distributed Threads,0.8925619834710744
+BRCA Coding,Scientific Python Environment,0.8591160220994475
+BRCA Coding,Distributed Processes,0.8925619834710744

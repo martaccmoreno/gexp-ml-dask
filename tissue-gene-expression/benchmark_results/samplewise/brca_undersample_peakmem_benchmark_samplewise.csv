@@ -1,0 +1,10 @@
+n Samples,Framework,Peak Memory (MiB)
+n200,Distributed Threads,1715.46875
+n200,Distributed Processes,3825.3828125
+n200,Scientific Python Ecosystem,4726.53515625
+n600,Distributed Threads,3390.78125
+n600,Distributed Processes,5368.234375
+n600,Scientific Python Ecosystem,6012.57421875
+n1205,Distributed Threads,5139.29296875
+n1205,Distributed Processes,7394.69140625
+n1205,Scientific Python Ecosystem,7692.90234375

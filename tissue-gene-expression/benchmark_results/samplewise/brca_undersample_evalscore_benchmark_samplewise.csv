@@ -1,0 +1,10 @@
+n Features,Framework,Evaluation Score (Accuracy)
+n200,Distributed Threads,0.85
+n200,Distributed Processes,0.85
+n200,Scientific Python Ecosystem,0.9
+n600,Distributed Threads,0.8777777777777778
+n600,Distributed Processes,0.8777777777777778
+n600,Scientific Python Ecosystem,0.8944444444444445
+n1205,Distributed Threads,0.9226519337016574
+n1205,Distributed Processes,0.9226519337016574
+n1205,Scientific Python Ecosystem,0.8674033149171271

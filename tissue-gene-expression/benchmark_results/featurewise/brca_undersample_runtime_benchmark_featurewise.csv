@@ -1,0 +1,10 @@
+f Features,Framework,Fastest Runtime (s)
+f10000,Distributed Threads,406.9536268940028
+f10000,Distributed Processes,453.8876900130017
+f10000,Scientific Python Ecosystem,871.0255995740008
+f20000,Distributed Threads,870.0947698730001
+f20000,Distributed Processes,919.8313052880003
+f20000,Scientific Python Ecosystem,1155.4338669589997
+f40000,Distributed Threads,1707.8443972760015
+f40000,Distributed Processes,2114.603924793002
+f40000,Scientific Python Ecosystem,1834.4685393010004
